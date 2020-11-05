@@ -1,6 +1,6 @@
 # GravitySurge
 
-This was my 2nd project, collision simulation with gravity, this is a kind of "Arkanoid" for java.
+This was my 2nd project (game), collision simulation with gravity, this is a kind of "Arkanoid" for java.
 
 This project was made in NetBeans.
 
